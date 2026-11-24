@@ -69,8 +69,8 @@ Passionate about building responsive web applications, solving real-world proble
 |---|---|---|
 | 🏡 **Wanderlust** | Listings app with CRUD, Passport.js auth with sessions, reviews & ratings, Joi validation and modular Express routers (MVC). | `Node.js` `Express` `MongoDB` `EJS` `Bootstrap` |
 | 🔌 **Opera** | Built to learn how APIs work in depth. | `Node.js` `Express` |
-| 💪 **FitLog** | Workout tracker with a GitHub-style heatmap and dark UI. [Live demo](https://ibm-project-ten-nu.vercel.app) | `HTML` `CSS` `JavaScript` `Vercel` |
-| 🎮 **Simon Says** | Memory game with levels, random sequences and game-over logic. [Live demo](simon-says-game-tau-tan.vercel.app) | `HTML` `CSS` `JavaScript` `Bootstrap` |
+| 💪 **FitLog** | Workout tracker with a GitHub-style heatmap and dark UI. | `HTML` `CSS` `JavaScript` `Vercel` |
+| 🎮 **Simon Says** | Memory game with levels, random sequences and game-over logic. | `HTML` `CSS` `JavaScript` `Bootstrap` |
 
 <!-- TODO: add repo links to each project name, e.g. [Wanderlust](https://github.com/Nilanjan-10/<repo-name>) -->
 
