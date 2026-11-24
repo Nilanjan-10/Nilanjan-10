@@ -41,7 +41,9 @@ Passionate about building responsive web applications, solving real-world proble
 
 **🟢 Backend & Database**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,fastapi&perline=6" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=6" alt="Backend" />
+
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=openapiinitiative&logoColor=white)
 
 **☕ Languages**
 
