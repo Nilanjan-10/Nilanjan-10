@@ -24,7 +24,7 @@
 
 Passionate about building responsive web applications, solving real-world problems, and continuously learning modern technologies. Currently focused on strengthening my full-stack development, DevOps, and problem-solving skills through practical projects.
 
-- 🔭 **Currently building:** MERN stack projects (multi-tenant SaaS & marketplace apps)
+- 🔭 **Currently building:** MERN stack projects
 - 🌱 **Currently learning:** DevOps, system design & advanced backend concepts
 - 🧠 **Strong in:** OOP, DSA & problem solving
 - 🎯 **Looking for:** Software development roles / campus placements
@@ -65,8 +65,6 @@ Passionate about building responsive web applications, solving real-world proble
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏥 **Clinora** | Multi-tenant clinic management SaaS (team project). I built the **Super Admin dashboard** with JWT-based role routing and protected routes. | `MongoDB` `Express` `React` `Node.js` |
-| 🛠️ **NearU** | Local service marketplace app (team project) focused on real-world utility. | `MongoDB` `Express` `React` `Node.js` |
 | 🏡 **Wanderlust** | Listings app with CRUD, Passport.js auth with sessions, reviews & ratings, Joi validation and modular Express routers (MVC). | `Node.js` `Express` `MongoDB` `EJS` `Bootstrap` |
 | 🔌 **Opera** | Built to learn how APIs work in depth. | `Node.js` `Express` |
 | 💪 **FitLog** | Workout tracker with a GitHub-style heatmap and dark UI. [Live demo](https://ibm-project-ten-nu.vercel.app) | `HTML` `CSS` `JavaScript` `Vercel` |
